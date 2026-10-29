@@ -1,0 +1,6 @@
+{
+  "name": "Dance With Dev Weddings",
+  "description": "Breathtaking luxury Indian wedding and Sangeet choreography website for Dance With Dev Weddings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
